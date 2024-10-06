@@ -3,4 +3,5 @@ from programs.chp import chp
 
 
 
-chp()
+if __name__ == "__main__":
+    chp()
